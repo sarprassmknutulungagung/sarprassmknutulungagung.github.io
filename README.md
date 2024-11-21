@@ -13,7 +13,7 @@
                     <span class="absolute inset-y-0 left-0 flex items-center pl-3">
                         <i class="fas fa-user text-gray-400"></i>
                     </span>
-                    <input type="text" placeholder="Username" class="pl-10 pr-4 py-2 w-full border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    <input type="text" placeholder="Username" class="pl-10 pr-4 py-2 w-full border rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500">
                 </label>
             </div>
             <div class="mb-6">
@@ -21,7 +21,7 @@
                     <span class="absolute inset-y-0 left-0 flex items-center pl-3">
                         <i class="fas fa-lock text-gray-400"></i>
                     </span>
-                    <input type="password" placeholder="Password" class="pl-10 pr-4 py-2 w-full border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    <input type="password" placeholder="Password" class="pl-10 pr-4 py-2 w-full border rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500">
                 </label>
             </div>
             <div class="text-center">
