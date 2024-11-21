@@ -1,4 +1,3 @@
-# sarprassmknutulungagung.github.io
 <html>
 <head>
     <title>Inventory App</title>
