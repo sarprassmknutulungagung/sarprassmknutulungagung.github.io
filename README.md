@@ -25,7 +25,7 @@
                 </label>
             </div>
             <div class="text-center">
-                <button type="submit" class="bg-yellow-500 text-white py-2 px-4 rounded-lg hover:bg-yellow-600 focus:outline-none focus:ring-2 focus:ring-yellow-500">Log in</button>
+                <button type="submit" class="bg-green-500 text-white py-2 px-4 rounded-lg hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500">Log in</button>
             </div>
         </form>
         <div class="text-center mt-4">
