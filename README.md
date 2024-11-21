@@ -29,7 +29,7 @@
             </div>
         </form>
         <div class="text-center mt-4">
-            <a href="https://smknu-tulungagung.sch.id" class="text-blue-500 text-sm">https://smknu-tulungagung.sch.id ©2024</a>
+            <a href="https://smknu-tulungagung.sch.id" class="text-green-500 text-sm">https://smknu-tulungagung.sch.id ©2024</a>
         </div>
     </div>
 </body>
